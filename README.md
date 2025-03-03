@@ -1,18 +1,17 @@
-# Hallo Semua
+👋 Hi, I'm Tri Kusumawardana!
+🚀 Web Developer | ML & AI Developer | Tech Enthusiast
 
-Perkenalkan nama saya **Tri Kusumawardana**.
+I'm a Computer Science student at UNAKI with a strong passion for web development, machine learning, and artificial intelligence. I specialize in building scalable web applications and developing AI-powered solutions to solve real-world problems.
 
-Saya seorang **Mahasiswa Teknik Informatika** di [Universitas AKI](https://www.unaki.ac.id/).
-
-Saya undergraduate **Machine Learning - Bangkit Academy** 2023.
-
-Saya juga memiliki sertifikasi di beberapa kelas di [Dicoding](https://www.dicoding.com/) sejak 2020.
-
-Jika kamu tertarik untuk berkenalan denganku, silahkan ikuti akun [Linkedin](https://www.linkedin.com/trikusumawardana/)ku ya.
-
-<p align="left">
-<a href="https://github.com/trikusumawardana">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=gilangadhan&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=gilangadhan&layout=compact&langs_count=8&theme=algolia"/>
-</a>
-</p>
+🛠️ Tech Stack & Skills:
+Web Development: PHP (CodeIgniter), JavaScript, Bootstrap, Tailwind CSS
+Machine Learning & AI: Python (TensorFlow, OpenCV), Deep Learning, Computer Vision
+Databases: MySQL, PostgreSQL
+Version Control: Git, GitHub
+📌 What I’m Working On:
+KAWA Kata Wajah – An AI-powered facial expression recognition system for stress detection
+Developing web applications with CodeIgniter and modern front-end frameworks
+Exploring AI applications in mental health and human-computer interaction
+📫 Let's Connect!
+📧 Email: trikusumawardana6@gmail.com
+💼 LinkedIn: [[Your LinkedIn Profile]](https://www.linkedin.com/in/trikusumawardana/)
