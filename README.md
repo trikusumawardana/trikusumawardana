@@ -14,4 +14,4 @@ Developing web applications with CodeIgniter and modern front-end frameworks
 Exploring AI applications in mental health and human-computer interaction
 📫 Let's Connect!
 📧 Email: trikusumawardana6@gmail.com
-💼 LinkedIn: [[Your LinkedIn Profile]](https://www.linkedin.com/in/trikusumawardana/)
+💼 LinkedIn: [[LinkedIn Profile]](https://www.linkedin.com/in/trikusumawardana/)
